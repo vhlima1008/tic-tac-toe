@@ -6,5 +6,13 @@
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/gannicos/tic-tac-toe)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gannicos/tic-tac-toe)
 
-> This implementation integrates a `Minimax algorithm` and have the possibility to Player Versus Player on a local game. 
+---
+
+<p align="center">
+  <img src="./TicTacToe_1.png" alt="Game Preview" width="300"/>
+</p>
+
+---
+
+> This implementation integrates a `Minimax algorithm` and has the possibility of Player Versus Player in a local game.  
 > You can play the game in [my CodeSandbox](https://codesandbox.io/p/github/Gannicos/Tic-Tac-Toe/main?import=true).
