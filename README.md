@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="./TicTacToe_1.png" alt="Game Preview" width="300"/>
+  <img src="./TicTacToe_1.png" alt="Game Preview" width="100%"/>
 </p>
 
 ---
